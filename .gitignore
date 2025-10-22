@@ -1,0 +1,5 @@
+#nano .gitignore
+#Ignore the 'Git' folder that contains all the accidental system/app files
+Git/
+
+
