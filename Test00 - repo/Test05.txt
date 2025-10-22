@@ -1,0 +1,1 @@
+Hello, this is a sample text for Test05 in BranchTest00
