@@ -1,2 +1,4 @@
 # Test00
-A Simple Hello program
+This is for learning purpose.
+Had to update it.
+
